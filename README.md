@@ -37,6 +37,8 @@ ______________________________________________________
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+![image](https://github.com/ganuza/whats-for-dinner-az/assets/31826116/5e41f229-d098-488c-9aaf-9a7f05f5fc6d)
+![image](https://github.com/ganuza/whats-for-dinner-az/assets/31826116/1e018524-a828-413d-8145-30a4a90b3893)
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
