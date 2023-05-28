@@ -37,7 +37,7 @@ ______________________________________________________
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-![image](https://github.com/ganuza/whats-for-dinner-az/assets/31826116/5e41f229-d098-488c-9aaf-9a7f05f5fc6d)
+
 ![image](https://github.com/ganuza/whats-for-dinner-az/assets/31826116/2ba620dd-b2e6-427e-a8c8-bc84ad073d12)
 
 
