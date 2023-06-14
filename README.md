@@ -4,6 +4,9 @@
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
 For our second website project in Mod 1, we built the 'What's for Dinner?' page to make random reciped suggestions based on a user's radio button selection.  This was the first project where we built our own HTML structure and CSS styling files to recreate a comp that was provided for us.  We then used JavaScript to add the interactive radio buttons, create functionality, and keep our Data Model up to date. 
 
+### Deployed Page
+https://ganuza.github.io/whats-for-dinner-az/
+
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 1. Fork this project to your GitHub account
